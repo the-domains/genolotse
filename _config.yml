@@ -1,14 +1,14 @@
 layout_spectrum: 0.8044776
-typography_spectrum: 0.319939
+typography_spectrum: 0.3100359
 color:
   saturation: 0.3848596
-  lightness: 0.7088175
-  brandStrength: 0.5398022
-  rhythmicContrast: 0.3745989
+  brandStrength: 0.6200717
+  lightness: 0.7831541
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#65A4B5'
+    - '#FFFFFF'
+    - '#145270'
+    - '#421517'
+    - '#883930'
+  rhythmicContrast: 0.3745989
 name: Genolotse
